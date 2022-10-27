@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\bin\Debug\2022_10_26_Raumschiffe.exe.config
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\bin\Debug\2022_10_26_Raumschiffe.exe
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\bin\Debug\2022_10_26_Raumschiffe.pdb
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\obj\Debug\2022_10_26_Raumschiffe.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\obj\Debug\2022_10_26_Raumschiffe.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\obj\Debug\2022_10_26_Raumschiffe.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\obj\Debug\2022_10_26_Raumschiffe.exe
+C:\Users\micha\source\repos\2022_10_26_Raumschiffe\2022_10_26_Raumschiffe\obj\Debug\2022_10_26_Raumschiffe.pdb
